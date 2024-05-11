@@ -164,7 +164,6 @@
   "FIntMockClientLightingTechnologyIxpExperimentMode": "0",
   "FIntMockClientLightingTechnologyIxpExperimentQualityLevel": "7",
   "DebugGraphicPreferD3D11": "True",
-  "FFlagLightgridCPUAsyncUpdate": "True",
   "DFFlagFrameTimeStdDev": "False",
   "DFFlagFrameTimeJitter": "False",
   "DFFlagPreventReturnOfElevatedPhysicsFPS ": "False",
@@ -341,7 +340,6 @@
   "FStringEnableChromePinnedChatForcedUserIds": "1",
   "FFlagEnableChromePinnedChat": "False",
   "FIntRenderLocalLightFadeInMs": "0",
-  "DFIntMicroProfilerDpiScaleOverride": "100",
   "DFIntDSTelemetryGetSortedV1Rollout": "100",
   "DFIntDSTelemetryGetV1Rollout": "100",
   "DFIntDSTelemetryGetV2Rollout": "100",
@@ -608,7 +606,6 @@
   "FStringTerrainMaterialTablePre2022": "",
   "\u0022DFIntCSGLevelOfDetailSwitchingDistanceL23\u0022": "0",
   "FStringTerrainMaterialTable2022": "",
-  "FIntFontSizePadding": "1",
   "FFlagTrackMacWebLaunchFlow": "False",
   "\u0022DFIntCSGLevelOfDetailSwitchingDistanceL12\u0022": "0",
   "FIntV1MenuLanguageSelectionFeaturePerMillageRollout": "0",
@@ -634,5 +631,12 @@
   "FStringVoiceBetaBadgeLearnMoreLink": "null",
   "FFlagReconnectDisabled": "True",
   "FFlagEnableInGameMenuChrome": "False",
-  "FFlagDebugGraphicsDisableVulkan11": "True"
+  "FFlagDebugGraphicsDisableVulkan11": "True",
+  "FIntMotionBuffers2": "0",
+  "FFlagDebugSkyGray": "False",
+  "DFIntRenderClampRoughnessMax": "640000000",
+  "FFlagDebugForceFSMCPULightCulling": "True",
+  "FFlagFixShadowMapMerging": "True",
+  "FFlagDebugGraphicsPreferD3D10FL10": "True",
+  "DFIntTaskSchedulerTargetPing": "0"
 }
